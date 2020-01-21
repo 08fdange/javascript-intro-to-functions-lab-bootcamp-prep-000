@@ -18,8 +18,11 @@ logShout(shout("hello"))
 logWhisper(whisper("HELLO"))
 
 
-var uppercase = 'Hello'
+var uppercase = 'HELLO'
 
+uppercase.toUpperCase() === uppercase
+
+var lowercase = 'hello'
 
 function sayHiToGrandma(string) {
   if (string === "HELLO") {
