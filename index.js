@@ -29,4 +29,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(sayHiToGrandma(shout("hello")))
+console.log(sayHiToGrandma(whisper("hello")))
