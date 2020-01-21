@@ -46,4 +46,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(sayHiToGrandma(whisper("")))
+console.log(sayHiToGrandma(whisper("I love you, Grandma.")))
