@@ -17,6 +17,10 @@ function logWhisper(whisper) {
 logShout(shout("hello"))
 logWhisper(whisper("HELLO"))
 
+
+var uppercase = 'Hello'
+
+
 function sayHiToGrandma(string) {
   if (string === "HELLO") {
     return("YES INDEED!")
