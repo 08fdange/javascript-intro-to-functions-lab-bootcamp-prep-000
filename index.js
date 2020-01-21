@@ -20,19 +20,6 @@ logWhisper(whisper("HELLO"))
 
 var uppercase = 'HELLO'
 
-uppercase.toUpperCase() === 
-uppercase // true
-
-var lowercase = 'hello'
-lowercase.toLowerCase() === 
-lowercase // true
-
-var mixedCase = 'Hi there!'
-mixedCase.toLowerCase() === mixedCase
-mixedCase // false
-
-mixedCase.toUpperCase() === 
-mixedCase // false
 
 function sayHiToGrandma(string) {
   if (string === "HELLO") {
