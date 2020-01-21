@@ -14,6 +14,4 @@ function logWhisper(whisper) {
   console.log(whisper)
 }
 
-logShout(shout("hello"))
-logWhisper(whisper("hello"))
 
