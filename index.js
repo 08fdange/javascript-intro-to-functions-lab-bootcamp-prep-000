@@ -14,8 +14,6 @@ function logWhisper(whisper) {
   console.log(whisper)
 }
 
-logShout(shout("hello"))
-logWhisper(whisper("HELLO"))
 
 
 var uppercase = 'HELLO'
