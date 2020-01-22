@@ -7,11 +7,11 @@ function whisper(string) {
 }
 
 function logShout("hello") {
-  console.log("hello".shout) 
+  console.log("hello".shout()) 
 }
   
 function logWhisper('hello') {
-  console.log('hello'.whisper)
+  console.log('hello'.whisper())
 }
 
 
