@@ -16,9 +16,6 @@ function logWhisper(whisper) {
 
 
 
-var uppercase = 'HELLO'
-
-
 function sayHiToGrandma(string) {
   if (string === "HELLO") {
     return("YES INDEED!")
